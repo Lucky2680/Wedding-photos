@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Wedding Gallery</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!-- BACKGROUND -->
+
+    <canvas id="bg"></canvas>
+
+    <!-- WELCOME PAGE -->
+
+    <div id="welcome">
+
+        <h1>Wedding Photo Gallery</h1>
+
+        <button onclick="startGallery()">
+
+            Enter Gallery
+
+        </button>
+
+    </div>
+
+    <!-- MAIN PAGE -->
+
+    <div id="mainPage">
+
+        <!-- CENTER IMAGE -->
+
+        <div class="center-image">
+
+            <img src="images/center.jpg">
+
+        </div>
+
+        <!-- MOVING ALBUMS -->
+
+        <div class="orbit">
+
+            <div class="album a1"
+            onclick="openAlbum('album1')">
+
+                <img src="images/a1.jpg">
+
+
+            </div>
+
+            <div class="album a2"
+            onclick="openAlbum('album2')">
+
+                <img src="images/a2.jpg">
+
+
+            </div>
+
+            <div class="album a3"
+            onclick="openAlbum('album3')">
+
+                <img src="images/a3.jpg">
+
+
+            </div>
+
+            <div class="album a4"
+            onclick="openAlbum('album4')">
+
+                <img src="images/a4.jpg">
+
+
+            </div>
+
+        </div>
+
+        <!-- LIKED BOX -->
+
+        <div class="liked-box"
+        onclick="openAlbum('liked')">
+
+            ❤️
+
+            <p>Liked</p>
+
+        </div>
+
+        <!-- DELETE -->
+
+        <div class="deleted">
+
+            🗑️
+
+        </div>
+
+    </div>
+
+    <!-- GALLERY PAGE -->
+
+    <div id="galleryPage">
+
+        <div class="back"
+        onclick="goHome()">
+
+            ← Back
+
+        </div>
+
+        <div id="gallery"></div>
+
+    </div>
+
+    <!-- IMAGE VIEWER -->
+
+    <div id="viewer">
+
+        <div class="viewer-back"
+        onclick="closeViewer()">
+
+            ← Back
+
+        </div>
+
+        <button class="left"
+        onclick="prevPhoto()">
+
+            ❮
+
+        </button>
+
+        <img id="viewerImg">
+
+        <button class="right"
+        onclick="nextPhoto()">
+
+            ❯
+
+        </button>
+
+        <div class="bottom-controls">
+
+            <button onclick="likePhoto()">
+
+                ❤️ Like
+
+            </button>
+
+            <button onclick="downloadPhoto()">
+
+                ⬇ Download
+
+            </button>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
