@@ -1,9 +1,7 @@
 const albums = {
 
     album1:[
-        'https://photos.google.com/photo/AF1QipOTWKWwf47xlWteWEqpfL6s4HaVG19NJecQZvVD',
-        'https://photos.google.com/photo/AF1QipMa_7x0HrXcSCqBqmmMB74Dmt_HLm4S_z2gScPa',
-        'https://photos.google.com/photo/AF1QipOr8A0muHN7RV_OFbO8Ntw1NnIlF3-8dw9s0uJr'
+        'https://yeirkdajtottveglhqdf.supabase.co/storage/v1/object/public/Wedding%20Photos/Album1/DSC_3451.JPG'
     ],
 
     album2:[
