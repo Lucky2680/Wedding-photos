@@ -7,18 +7,18 @@ const albums = {
     ],
 
     album2:[
-        "https://yeirkdajtottveglhqdf.supabase.co/storage/v1/object/public/Wedding%20Photos/Album1/DSC_3453.JPG",
-        "https://yeirkdajtottveglhqdf.supabase.co/storage/v1/object/public/Wedding%20Photos/Album1/DSC_3453.JPG"
+        "https://yeirkdajtottveglhqdf.supabase.co/storage/v1/object/public/Wedding%20Photos/Album1/DSC_3451.JPG",
+        "https://yeirkdajtottveglhqdf.supabase.co/storage/v1/object/public/Wedding%20Photos/Album1/DSC_3451.JPG"
     ],
 
     album3:[
-        "https://yeirkdajtottveglhqdf.supabase.co/storage/v1/object/public/Wedding%20Photos/Album1/DSC_3453.JPG",
-        "https://yeirkdajtottveglhqdf.supabase.co/storage/v1/object/public/Wedding%20Photos/Album1/DSC_3453.JPG"
+        "https://yeirkdajtottveglhqdf.supabase.co/storage/v1/object/public/Wedding%20Photos/Album1/DSC_3451.JPG",
+        "https://yeirkdajtottveglhqdf.supabase.co/storage/v1/object/public/Wedding%20Photos/Album1/DSC_3460.JPG"
     ],
 
     album4:[
-        "https://yeirkdajtottveglhqdf.supabase.co/storage/v1/object/public/Wedding%20Photos/Album1/DSC_3453.JPG",
-        "https://yeirkdajtottveglhqdf.supabase.co/storage/v1/object/public/Wedding%20Photos/Album1/DSC_3453.JPG"
+        "https://yeirkdajtottveglhqdf.supabase.co/storage/v1/object/public/Wedding%20Photos/Album1/DSC_3451.JPG",
+        "https://yeirkdajtottveglhqdf.supabase.co/storage/v1/object/public/Wedding%20Photos/Album1/DSC_3451.JPG"
     ],
 
     liked:[]
