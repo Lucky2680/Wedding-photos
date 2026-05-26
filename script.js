@@ -1,30 +1,9 @@
 const albums = {
 
     album1:[
-        "D:/Brother wedding photos/Images/Album3/DSC08307.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08308.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08309.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08311.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08312.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08314.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08315.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08316.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08317.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08318.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08320.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08321.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08322.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08323.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08326.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08327.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08332.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08333.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08334.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08335.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08336.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08337.JPG",
-        "D:/Brother wedding photos/Images/Album3/DSC08338.JPG",
-
+        'https://photos.google.com/photo/AF1QipOTWKWwf47xlWteWEqpfL6s4HaVG19NJecQZvVD',
+        'https://photos.google.com/photo/AF1QipMa_7x0HrXcSCqBqmmMB74Dmt_HLm4S_z2gScPa',
+        'https://photos.google.com/photo/AF1QipOr8A0muHN7RV_OFbO8Ntw1NnIlF3-8dw9s0uJr'
     ],
 
     album2:[
